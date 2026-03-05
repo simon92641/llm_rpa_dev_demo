@@ -1,0 +1,4 @@
+{"ts": "2026-02-27T06:36:31.381057+00:00", "node": "init_run", "status": "ok", "url": "https://quotes.toscrape.com/"}
+{"ts": "2026-02-27T06:36:31.382011+00:00", "node": "rpa_scrape", "status": "start", "url": "https://quotes.toscrape.com/"}
+{"ts": "2026-02-27T06:36:43.703338+00:00", "node": "rpa_scrape", "status": "ok", "count": 10}
+{"ts": "2026-02-27T06:36:43.704454+00:00", "node": "gemini_summarize", "status": "start"}
